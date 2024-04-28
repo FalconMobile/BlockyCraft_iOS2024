@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "290086193168",
+    "project_id": "archery-blocky-craft-ios",
+    "storage_bucket": "archery-blocky-craft-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290086193168:ios:d9bd6c555a771abdbaa295",
+        "android_client_info": {
+          "package_name": "com.falconmobile.iArcher"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5KSl5AA3VHrBznLS88G5_3tOjKswaDMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

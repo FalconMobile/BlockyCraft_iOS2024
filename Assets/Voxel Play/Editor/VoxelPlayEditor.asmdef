@@ -1,0 +1,17 @@
+{
+    "name": "VoxelPlayEditor",
+    "references": [
+        "GUID:5cc47adce895b7146a90f50429bdaeff"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

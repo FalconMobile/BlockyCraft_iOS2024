@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<LoadingAd_BlockyCraft_Android>true</LoadingAd_BlockyCraft_Android>
+<WillBeReborn_BlockyCraft_Android>true</WillBeReborn_BlockyCraft_Android>
+<NewGameAd_BlockyCraft_Android>false</NewGameAd_BlockyCraft_Android>
+<Lobby_Banner_BlockyCraft_Android>true</Lobby_Banner_BlockyCraft_Android>
+<Game_Banner_BlockyCraft_Android>false</Game_Banner_BlockyCraft_Android>
+
+</root>

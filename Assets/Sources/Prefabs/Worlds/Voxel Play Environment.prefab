@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8838371437129136257
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8838371437129136263}
+  - component: {fileID: 8838371437129136262}
+  m_Layer: 0
+  m_Name: Voxel Play Environment
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8838371437129136263
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8838371437129136257}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8838371437129136262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8838371437129136257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb3935ca6053e4334983d3f7b819d537, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  useOriginShift: 0
+  originShiftDistanceThreshold: 1000
+  fxRoot: {fileID: 0}
+  particlePoolSize: 1000
+  voxelDefinitionsCount: 30
+  enableURP: 0
+  debugLevel: 1
+  world: {fileID: 11400000, guid: 3ae91597c3b93cd4baabd9c608a01a5b, type: 2}
+  enableBuildMode: 0
+  enableGeneration: 1
+  constructorMode: 0
+  buildMode: 0
+  renderInEditor: 1
+  renderInEditorLowPriority: 0
+  renderInEditorDetail: 1
+  renderInEditorAreaCenter: {x: 0, y: 0, z: 0}
+  renderInEditorAreaSize: {x: 512, y: 64, z: 512}
+  enableConsole: 1
+  showConsole: 0
+  enableInventory: 1
+  enableDebugWindow: 1
+  showFPS: 0
+  welcomeMessage: <color=green>Press <color=yellow>Number</color> to select an item,
+    <color=yellow>Tab</color> to toggle belt.</color>
+  welcomeMessageDuration: 4
+  UICanvasPrefab: {fileID: 8965319342745683969, guid: 498c8fc845755ff48a3065e69464b44d,
+    type: 3}
+  inputControllerPCPrefab: {fileID: 1585764102534242, guid: 182bd21a31be8466ab9869959ee9d6bd,
+    type: 3}
+  inputControllerMobilePrefab: {fileID: 1556361563542052, guid: 8bd5698cb829a7145987b86905a550a2,
+    type: 3}
+  crosshairPrefab: {fileID: 1788417017974548, guid: 2671eb0d93c054491b765a9afa1c247b,
+    type: 3}
+  crosshairTexture: {fileID: 2800000, guid: 51075cdab4f044cae8efbec32eca28b1, type: 3}
+  consoleBackgroundColor: {r: 0, g: 0, b: 0, a: 0.7490196}
+  enableStatusBar: 1
+  statusBarBackgroundColor: {r: 0, g: 0, b: 0, a: 0.7529412}
+  layerParticles: 2
+  layerVoxels: 1
+  layerClouds: 1
+  enableLoadingPanel: 1
+  loadingText: Initializing...
+  initialWaitTime: 1
+  initialWaitText: Loading Island...
+  loadSavedGame: 0
+  saveFilename: save0001
+  globalIllumination: 1
+  ambientLight: 0.02
+  daylightShadowAtten: 0.65
+  enableSmoothLighting: 1
+  obscuranceMode: 1
+  obscuranceIntensity: 0.5
+  enableReliefMapping: 0
+  reliefStrength: 0.05
+  reliefIterations: 10
+  reliefIterationsBinarySearch: 5
+  reliefMaxDistance: 25
+  enableNormalMap: 0
+  enableFogSkyBlending: 1
+  textureSize: 64
+  maxChunks: 16000
+  hqFiltering: 1
+  mipMapBias: 1
+  filterMode: 0
+  doubleSidedGlass: 1
+  transparentBling: 1
+  useComputeBuffers: 0
+  previewTouchUIinEditor: 0
+  prewarmChunksInEditor: 5000
+  enableTinting: 0
+  enableFresnel: 0
+  fresnelExponent: 8
+  fresnelIntensity: 0.2
+  fresnelColor: {r: 0.9098039, g: 0.9019608, b: 0.99215686, a: 1}
+  enableBevel: 0
+  enableOutline: 0
+  outlineColor: {r: 1, g: 1, b: 1, a: 0.5}
+  outlineThreshold: 0.49
+  enableCurvature: 0
+  seeThrough: 0
+  seeThroughTarget: {fileID: 0}
+  seeThroughRadius: 3
+  seeThroughAlpha: 0.15
+  _seeThroughHeightOffset: 1
+  enableBrightPointLights: 0
+  _visibleChunksDistance: 15
+  forceChunkDistance: 3
+  unloadFarChunks: 0
+  unloadFarNavMesh: 0
+  distanceAnchor: {fileID: 0}
+  adjustCameraFarClip: 0
+  usePixelLights: 1
+  enableShadows: 1
+  shadowsOnWater: 0
+  realisticWater: 0
+  maxCPUTimePerFrame: 30
+  maxChunksPerFrame: 50
+  maxTreesPerFrame: 10
+  maxBushesPerFrame: 10
+  multiThreadGeneration: 1
+  lowMemoryMode: 0
+  onlyRenderInFrustum: 1
+  serverMode: 0
+  enableColliders: 1
+  enableNavMesh: 1
+  hideChunksInHierarchy: 1
+  enableTrees: 1
+  denseTrees: 1
+  enableVegetation: 1
+  sun: {fileID: 0}
+  fogAmount: 0.5
+  fogDistanceAuto: 0
+  fogDistance: 100
+  fogFallOff: 0.2
+  enableClouds: 1
+  defaultBuildSound: {fileID: 0}
+  defaultPickupSound: {fileID: 8300000, guid: ee40c47f5b24f487fa258253ebf93c7d, type: 3}
+  defaultDestructionSound: {fileID: 8300000, guid: b237fe58d85f1447ba6d8a675c379d15,
+    type: 3}
+  defaultImpactSound: {fileID: 8300000, guid: 0a026ef4bec3e461e90fc34c822159dd, type: 3}
+  defaultVoxel: {fileID: 11400000, guid: 764590ab8f7e04785a8ac184f4ff675a, type: 2}
+  defaultWaterVoxel: {fileID: 11400000, guid: f196cfea1816a4cb6b8e24bea23c4d60, type: 2}
+  enableDetailGenerators: 0

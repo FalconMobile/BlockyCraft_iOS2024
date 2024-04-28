@@ -1,0 +1,61 @@
+-,English,Russian,German,Spanish,Korean,French,Portuguese,Japanese,Italian,Chinese,Thai,Arabic
+menu_start,Start New Game,Начать новую игру,Neues Spiel starten,Empieza un juego nuevo,새 게임 시작,Commencer une nouvelle partie,Começar novo jogo,新しいゲームを開始,Inizia una nuova partita,开始新游戏,เริ่มเกมใหม่,ابدأ لعبة جديدة
+menu_load,Load game,Загрузить игру,Spiel laden,Cargar juego,게임 로드,Chargement du jeu,Carregar jogo,ゲームをロード,Carica gioco,加载游戏,โหลดเกมส์,لعبة تحميل
+menu_settings,Settings,Настройки,Einstellungen,Ajustes,설정,Réglages,Definições,設定,Impostazioni,设置,การตั้งค่า,إعدادات
+exit,Exit,Выход,Ausgang,Salida,출구,Sortir,Saída,出口,Uscita,出口,ทางออก,مخرج
+settings_cannibals,Cannibals ammount,Количество каннибалов,Kannibalen Menge,Cantidad de caníbales,식인종,Quantité de cannibales,Quantidade de canibais,人食い人種の量,I cannibali aumentano,食人族数量,จำนวนคนกินคน,آكلي لحوم البشر
+settings_wildLife,Wild life amount,Количество животных,Menge an wildem Leben,Cantidad de vida salvaje,야생 생활량,Quantité de vie sauvage,quantidade de vida selvagem,野生生物の量,Importo della vita selvaggia,野生动物数量,จำนวนชีวิตสัตว์ป่า,كمية الحياة البرية
+settings_birds,Birds amount,Количество птиц,Vögel Menge,cantidad de aves,새 금액,Quantité d'oiseaux,Quantidade de pássaros,鳥の量,Importo uccelli,鸟类数量,จำนวนนก,كمية الطيور
+settings_island,Island size,Размер острова,Inselgröße,Tamaño de la isla,섬 크기,Taille de l'île,Tamanho da ilha,島の大きさ,Dimensione dell'isola,岛屿大小,ขนาดเกาะ,حجم الجزيرة
+settings_few,Few,Мало,Wenig,Pocos,약간의,Peu,Alguns,少し,Pochi,很少,น้อย,عدد قليل
+settings_average,Average,Средне,Durchschnitt,Promedio,평균,Moyen,Média,平均,Media,平均,เฉลี่ย,متوسط
+settings_many,Many,Много,Viele,Muchos,많은,De nombreux,Muitos,たくさんの,Molti,许多,มากมาย,عديدة
+settings_small,Small,Небольшой,Klein,Pequeña,작은,Petit,Pequena,小さな,Piccolo,小的,เล็ก,صغير
+settings_decent,Decent,Приличный,Anständig,Decente,품위 있는,Décent,Decente,ちゃんとした,Decente,体面的,เหมาะสม,مقبول
+settings_big,Big,Большой,Groß,Grande,큰,Gros,Grande,大きい,Grande,大的,ใหญ่,كبير
+settings,Settings,Настройки,Einstellungen,Ajustes,설정,Réglages,Definições,設定,Impostazioni,设置,การตั้งค่า,إعدادات
+new_game_description,"When creating a new game, the old game will be deleted",При создании новой игры старая игра будет удалена,Beim Erstellen eines neuen Spiels wird das alte Spiel gelöscht,"Al crear un juego nuevo, el juego anterior se eliminará",새 게임 생성 시 기존 게임 삭제,"Lors de la création d'un nouveau jeu, l'ancien jeu sera supprimé","Ao criar um novo jogo, o jogo antigo será excluído",新しいゲームを作成すると、古いゲームは削除されます,"Quando crei un nuovo gioco, il vecchio gioco verrà eliminato",创建新游戏时，旧游戏将被删除,เมื่อสร้างเกมใหม่ เกมเก่าจะถูกลบ,عند إنشاء لعبة جديدة ، سيتم حذف اللعبة القديمة
+ok,OK,ОК,OK,OK,Ok,OK,OK,OK,OK,好的,ตกลง,نعم
+cancel,Cancel,Отменить,Absagen,Cancelar,취소,Annuler,Cancelar,キャンセル,Annulla,取消,ยกเลิก,يلغي
+loading_header,Loading Island...,Загружаем остров...,Insel wird geladen...,Cargando isla...,섬 로드 중...,Chargement de l'île...,Carregando Ilha...,島を読み込んでいます...,Caricamento isola...,加载岛屿...,กำลังโหลดเกาะ...,تحميل الجزيرة ...
+hint_start_game,"<color=white>Press <color=#D8BF5D>Number</color> to select an item, <color=#D8BF5D>Tab</color> to toggle belt.</color>","<color=white>Нажми <color=#D8BF5D>номер</color>, чтобы выбрать предмет, <color=#D8BF5D>Tab</color> -  чтобы переключить ремень.</color>","<color=white>Drücken Sie <color=#D8BF5D>Zahl</color>, um einen Gegenstand auszuwählen, <color=#D8BF5D>Tab</color>, um den Gürtel umzuschalten.</color>","<color=white>Presione <color=#D8BF5D>Número</color> para seleccionar un elemento, <color=#D8BF5D>Tab</color> para cambiar de cinturón.</color>",<color=white><color=#D8BF5D>숫자</color>를 눌러 항목을 선택하고 <color=#D8BF5D>Tab</color>을 눌러 벨트를 전환합니다.</color>,"<color=white>Appuyez sur <color=#D8BF5D>Numéro</color> pour sélectionner un élément, <color=#D8BF5D>Tab</color> pour basculer la ceinture.</color>","<color=white>Pressione <color=#D8BF5D>Número</color> para selecionar um item, <color=#D8BF5D>Tab</color> para alternar a faixa.</color>",<color=white><color=#D8BF5D>数字</color>を押してアイテムを選択し、<color=#D8BF5D>タブ</color>を押してベルトを切り替えます。</color>,"<color=white>Premi <color=#D8BF5D>Numero</color> per selezionare un oggetto, <color=#D8BF5D>Tab</color> per attivare/disattivare la cintura.</color>",<color=white>按<color=#D8BF5D>数字</color>选择项目，<color=#D8BF5D>Tab</color>切换腰带。</color>,<color=white>กด <color=#D8BF5D>Number</color> เพื่อเลือกรายการ <color=#D8BF5D>Tab</color> เพื่อสลับเข็มขัด</color>,<color = white> اضغط على <color = # D8BF5D> رقم </ color> لتحديد عنصر ، <color = # D8BF5D> Tab </color> لتبديل الحزام. </ color>
+inGame_score,Score: 0,Счет: 0,Punktzahl: 0,Puntuación: 0,점수: 0,Note : 0,Pontuação: 0,スコア: 0,Punteggio: 0,得分：0,คะแนน: 0,النتيجة: 0
+pause_resume,Resume,Продолжить,Fortsetzen,Reanudar,이력서,CV,Retomar,履歴書,Riprendere,恢复,ประวัติย่อ,سيرة ذاتية
+pause_music_on,Music On,Вкл. музыку,Musik an,Música encendida,음악 켜기,Musique allumée,Música ligada,ミュージックオン,Musica accesa,放音乐,เปิดเพลง,تشغيل الموسيقى
+pause_music_off,Music Off,Выкл. музыку,Musik aus,Música apagada,음악 끄기,Musique désactivée,Música desligada,ミュージックオフ,Musica spenta,音乐关闭,เพลงปิด,اطفئ الموسيقى
+pause_back_lobby,Back to lobby,Обратно в лобби,Zurück zur Lobby,volver al vestíbulo,로비로 돌아가기,Retour au hall,Voltar ao lobby,ロビーに戻る,Torna alla lobby,返回大厅,กลับไปที่ล็อบบี้,العودة إلى اللوبي
+pause_exit_desktop,Exit to desktop,Выйти из игры,Zurück zum Desktop,Salir al escritorio,데스크탑으로 나가기,Quitter sur le bureau,Sair para a área de trabalho,デスクトップに戻る,Esci sul desktop,退出到桌面,ออกจากเดสก์ท็อป,الخروج إلى سطح المكتب
+pause_save_game,Save game,Сохранить игру,Spiel speichern,Guardar partida,게임을 저장,Sauvegarder la partie,Salvar jogo,ゲームを保存する,Salva il gioco,保存游戏,บันทึกเกม,حفظ اللعبة
+inGame_score_defeated,Defeated,Побежден,Besiegt,Derrotado,패배,Vaincu,Derrotado,敗北,Sconfitto,击败,พ่ายแพ้,هزم
+inGame_score_Warning,"You can <color=#4EB385>respawn</color>, the game will continue from the same place, with all weapons.","Можно <color=#4EB385>возродиться</color>, игра продолжиться с того же момента с сохранением всего оружия.","Sie können <color=#4EB385>respawnen</color>, das Spiel wird an derselben Stelle mit allen Waffen fortgesetzt.","Puedes <color=#4EB385>reaparecer</color>, el juego continuará desde el mismo lugar, con todas las armas.",<color=#4EB385>재생성</color>할 수 있습니다. 게임은 모든 무기를 사용하여 같은 장소에서 계속됩니다.,"Vous pouvez <color=#4EB385>respawn</color>, le jeu continuera à partir du même endroit, avec toutes les armes.","Você pode <color=#4EB385>respawn</color>, o jogo continuará do mesmo lugar, com todas as armas.",<color=#4EB385>リスポーン</color>できます。ゲームはすべての武器を使用して同じ場所から続行されます。,"Puoi <color=#4EB385>respawnare</color>, il gioco continuerà dallo stesso punto, con tutte le armi.",您可以<color=#4EB385>重生</color>，游戏将从同一个地方继续，所有武器。,คุณสามารถ<color=#4EB385>เกิดใหม่</color>ได้ เกมจะดำเนินต่อไปจากที่เดิมพร้อมอาวุธทั้งหมด,يمكنك <color=#4EB385> إعادة النشر </color> ، ستستمر اللعبة من نفس المكان ، بكل الأسلحة.
+inGame_score_to_main_menu,To main menu,В главное меню,Zum Hauptmenü,al menú principal,메인 메뉴로,Vers le menu principal,Para o menu principal,メインメニューへ,Al menu principale,到主菜单,ไปที่เมนูหลัก,إلى القائمة الرئيسية
+inGame_score_respawn,Respawn,Возродиться,Respawnen,reaparecer,리스폰,Réapparition,reaparecimento,リスポーン,Rigenera,重生,เกิดใหม่,إعادة
+Arrow,Arrow,Стрела,Pfeil,Flecha,화살,Flèche,Flecha,矢印,Freccia,箭,ลูกศร,سهم
+Axe_gold,Golden axe,Золотой топор,goldene Axt,hacha dorada,황금도끼,Hache d'or,Machado dourado,金の斧,Ascia d'oro,金斧头,ขวานทอง,الفأس الذهبي
+Axe_iron,Iron axe,Железный топор,Eiserne Axt,hacha de hierro,철도끼,Hache de fer,machado de ferro,鉄の斧,Ascia di ferro,铁斧,ขวานเหล็ก,فأس حديدي
+Bomb,Bomb,Бомба,Bombe,Bomba,폭탄,Bombe,Bombear,爆弾,Bomba,炸弹,ระเบิด,قنبلة
+Bow,Bow,Лук,Verneigung,Arco,절하다,Arc,Arco,弓,Arco,弓,คันธนู,قَوس
+HealthPotionLarge,Large health potion,Большое зелье здоровья,Großer Heiltrank,Gran poción de salud,큰 건강 물약,Grande potion de santé,Grande poção de saúde,大型ヘルスポーション,Grande pozione di salute,大型健康药水,ยาเพื่อสุขภาพขนาดใหญ่,جرعة صحية كبيرة
+HealthPotionMedium,Average health potion,Среднее зелье здоровья,Durchschnittlicher Gesundheitstrank,Poción de salud promedio,평균 건강 물약,Potion de santé moyenne,Poção de saúde média,平均的な健康ポーション,Pozione di salute media,平均健康药水,น้ำยาสุขภาพเฉลี่ย,متوسط ​​الجرعة الصحية
+HealthPotionSmall,Small health potion,Малое зелье здоровья,Kleiner Heiltrank,Poción de salud pequeña,작은 건강 물약,Petite potion de santé,Pequena poção de saúde,小さなヘルスポーション,Piccola pozione di salute,小生命药水,ยาเพื่อสุขภาพขนาดเล็ก,جرعة صحية صغيرة
+Musket_Blade,Musket,Мушкет,Muskete,Mosquete,머스켓,Mousquet,Mosquete,マスケット銃,Moschetto,滑膛枪,ปืนคาบศิลา,بندقية قديمة
+Pistol,Pistol,Пистолет,Pistole,Pistola,권총,Pistolet,Pistola,ピストル,Pistola,手枪,ปืนพก,مسدس
+Sword_Curved,Curved sword,Изогнутый меч,Gebogenes Schwert,espada curva,굽은 검,Épée courbe,Espada curva,曲がった剣,Spada ricurva,曲剑,ดาบโค้ง,سيف منحني
+Sword_Straight,Sword,Меч,Schwert,Espada,검,Épée,Espada,剣,Spada,剑,ดาบ,سيف
+Torch,Torch,Факел,Fackel,Antorcha,토치,Torche,Tocha,松明,Torcia,火炬,คบเพลิง,شعلة
+Dirt,Dirt,Земля,Schmutz,Suciedad,흙,Saleté,Sujeira,泥,Sporco,污垢,สิ่งสกปรก,التراب
+Tree,Tree,Дерево,Baum,Árbol,나무,Arbre,Árvore,木,Albero,树,ต้นไม้,شجرة
+Rock,Rock,Камень,Felsen,Roca,바위,Rock,Pedra,石,Roccia,岩石,หิน,صخر
+get,Obtained,Получено,Erhalten,Obtenido,획득,Obtenu,obtido,入手した,Ottenuto,获得,ได้รับ,مُقتَنىً
+settings_languages,Languages,Языки,Sprachen,Idiomas,언어,Langues,línguas,言語,Le lingue,语言,ภาษา,اللغات
+settings_header,Settings,Настройки,Einstellungen,Ajustes,설정,Paramètres,Configurações,設定,Impostazioni,设置,การตั้งค่า,الإعدادات
+initializing,Initialization,Инициализация,Initialisierung,Inicialización,초기화,Initialisation,Inicialização,初期化,Inizializzazione,初始化,การเริ่มต้น,التهيئة
+has_joined,Joined,Присоединился,Trat bei,Unido,가입,Rejoint,Ingressou,参加しました,Partecipato,已加入,เข้าร่วม,انضم
+left_the_game,Left the game,Покинул игру,Das Spiel verlassen,dejó el juego,게임에서 나감,A quitté le jeu,Deixe o jogo,ゲームをやめました,Ha abbandonato la partita,离开了游戏,ออกจากเกม,ترك اللعبة
+exit_game_description,Are you sure you want to exit the game?,Вы действительно хотите выйти из игры?,"Bist du sicher, dass du das Spiel beenden möchtest?",¿Seguro que quieres abandonar la partida?,게임을 종료하시겠습니까?,Êtes-vous sûr de vouloir quitter le jeu ?,Tem certeza de que deseja sair do jogo?,ゲームを終了してもよろしいですか？,Sei sicuro di voler uscire dal gioco?,确定要退出游戏吗？,คุณแน่ใจหรือไม่ ว่าต้องการออกจากเกม?,هل أنت متأكد من أنك تريد الخروج من اللعبة؟
+exit_game_header,Exit the Game?,Выйти из игры?,Spiel verlassen?,¿Salir del juego?,게임을 종료하시겠습니까?,Quitter le jeu?,Desistir do jogo?,アプリを終了しますか？,Abbandonare il gioco?,退出游戏？,ออกจากเกม?,إنهاء لعبة؟
+rate_description,Rate Us \n Do you love Block Shooting?,"Поставь нам оценку \n Вам нравится Block Shooting?",Bewerten Sie uns und erhalten Sie <color=#328D61>{0} Auferstehungen</color> ohne Werbung!,¡Califícanos y obtén <color=#328D61>{0} resurrecciones</color> sin anuncios!,평가하고 광고 없이 <color=#328D61>부활 {0}회</color>를 받으세요!,Évaluez-nous et obtenez <color=#328D61>{0} résurrections</color> sans publicité !,Avalie-nos e obtenha <color=#328D61>3 ressurreições</color> sem anúncios!,評価して、広告なしで<color=#328D61>復活を{0}回</color>手に入れましょう！,Valutaci e ottieni <color=#328D61>{0} resurrezioni</color> senza pubblicità!,给我们评分并获得 <color=#328D61>{0} 次复活</color>，没有广告！,ให้คะแนนเราและรับ <color=#328D61>การฟื้นคืนชีพ {0} ครั้ง</color> โดยไม่มีโฆษณา!,قيمنا واحصل على <color=#328D61> {0} إحياء </color> بدون إعلانات!
+rate_no,Not now,Позже,Später,Más tarde,나중에,Plus tard,Mais tarde,後で,Dopo,之后,ภายหลัง,لاحقاً
+rate_yes,Rate,Оценить,Rate,Tasa,비율,Taux,Avaliar,レート,Valutare,速度,ประเมิน,معدل
+free_respawn,Free Respawn ({0}),Бесплатное возрождение ({0}),Kostenloser Respawn ({0}),Reaparición gratuita ({0}),무료 부활({0}),Réapparition gratuite ({0}),Respawn Gratuito ({0}),無料リスポーン ({0}),Respawn gratuito ({0}),免费重生 ({0}),เกิดใหม่ฟรี ({0}),إعادة النشر مجانًا ({0})
+ui.gdpr.button,GDPR,GDPR,DSGVO,RGPD,GDPR,RGPD,GDPR,GDPR,GDPR,通用数据保护条例,GDPR,اللائحة العامة لحماية البيانات

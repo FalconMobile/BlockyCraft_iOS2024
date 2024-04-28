@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 4176a0de8ce059a41839a22c8af37825
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -623603649343465320
+    second: Scene
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Biped Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: NavyCraftBlend(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.0000005677873, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped
+      parentName: NavyCraftBlend(Clone)
+      position: {x: -0, y: 0.79839677, z: 0}
+      rotation: {x: -0.5000004, y: 0.49999958, z: 0.49999955, w: 0.5000005}
+      scale: {x: 0.009999999, y: 0.009999999, z: 0.01}
+    - name: Biped Pelvis
+      parentName: Biped
+      position: {x: -4.935196e-32, y: 0.00000018626453, z: 2.5797188}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+    - name: Biped Spine
+      parentName: Biped Pelvis
+      position: {x: -8.2716675, y: -0.019703863, z: 0.0000113997885}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999964}
+    - name: Biped Spine1
+      parentName: Biped Spine
+      position: {x: -24.748405, y: -0.023064269, z: -0.0000026555133}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000004}
+    - name: Biped Neck
+      parentName: Biped Spine1
+      position: {x: -29.056227, y: -0.005714417, z: -0.0000012877863}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: Biped Head
+      parentName: Biped Neck
+      position: {x: -7.169094, y: 0.00000023814142, z: -0.0000020330845}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999996}
+    - name: Biped Head_end
+      parentName: Biped Head
+      position: {x: -0, y: 7.169099, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped L Clavicle
+      parentName: Biped Spine1
+      position: {x: -22.98094, y: 0.0048195487, z: 3.9114158}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000001}
+    - name: Biped L UpperArm
+      parentName: Biped L Clavicle
+      position: {x: -33.393456, y: -0.0000010792314, z: 0.000012069941}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 0.9999993, z: 0.9999994}
+    - name: Biped L Forearm
+      parentName: Biped L UpperArm
+      position: {x: -33.191742, y: -0.0000009536743, z: -0.000007390976}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.000001, z: 0.99999994}
+    - name: Biped L Hand
+      parentName: Biped L Forearm
+      position: {x: -32.521095, y: -0.00000071525574, z: 0.0000054836273}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.99999976, y: 1.000002, z: 1.0000018}
+    - name: Bow_Root
+      parentName: Biped L Hand
+      position: {x: -12.930483, y: 2.8263512, z: -8.580921}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999999}
+    - name: Bow_String
+      parentName: Bow_Root
+      position: {x: 31.467451, y: 0.00008583069, z: 0.202178}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped L Hand_end
+      parentName: Biped L Hand
+      position: {x: -0, y: 32.521088, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped R Clavicle
+      parentName: Biped Spine1
+      position: {x: -22.980942, y: 0.004842602, z: -3.9114172}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000019, y: 1.0000007, z: 1.0000004}
+    - name: Biped R UpperArm
+      parentName: Biped R Clavicle
+      position: {x: -33.393463, y: 0.000010168929, z: -0.000010967255}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999934, y: 0.99999976, z: 0.9999995}
+    - name: Biped R Forearm
+      parentName: Biped R UpperArm
+      position: {x: -33.191753, y: -0.0000019073486, z: -0.0000071525574}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.000001}
+    - name: Biped R Hand
+      parentName: Biped R Forearm
+      position: {x: -32.521107, y: -0.0000017881393, z: -0.000019073486}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000011, y: 1.0000013, z: 1}
+    - name: Sword_Curved
+      parentName: Biped R Hand
+      position: {x: -6.866089, y: -13.560619, z: -18.506947}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.75, y: 0.75, z: 0.75}
+    - name: Sword_Straight
+      parentName: Biped R Hand
+      position: {x: -6.8660774, y: -13.560604, z: -18.506931}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.75, y: 0.74999994, z: 0.75}
+    - name: Pistol
+      parentName: Biped R Hand
+      position: {x: -89.788895, y: -0.000015258789, z: -3.1354904}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.75, y: 0.75, z: 0.75000006}
+    - name: Musket_Blade
+      parentName: Biped R Hand
+      position: {x: -80.619385, y: 0.0000038146973, z: -2.0411224}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.75, y: 0.75000006, z: 0.75}
+    - name: Biped R Hand_end
+      parentName: Biped R Hand
+      position: {x: -0, y: 32.5211, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped L Thigh
+      parentName: Biped Pelvis
+      position: {x: 0.000022722137, y: 0.000020980835, z: 13.91967}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000005}
+    - name: Biped L Calf
+      parentName: Biped L Thigh
+      position: {x: -35.963688, y: 0.00000040233135, z: 0.0000037867576}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999946, y: 0.9999995, z: 1}
+    - name: Biped L Foot
+      parentName: Biped L Calf
+      position: {x: -27.759039, y: 0.0000041183084, z: -0.0000009769574}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000005}
+    - name: Biped L Toe0
+      parentName: Biped L Foot
+      position: {x: -16.296011, y: 16.564518, z: 0.00000061695755}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.000001, y: 0.99999994, z: 1.000001}
+    - name: Biped L Toe0_end
+      parentName: Biped L Toe0
+      position: {x: -0, y: 23.236671, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped R Thigh
+      parentName: Biped Pelvis
+      position: {x: -0.000022722139, y: -0.000018119812, z: -13.91967}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000005}
+    - name: Biped R Calf
+      parentName: Biped R Thigh
+      position: {x: -35.963696, y: -0.0000005736947, z: -0.0000051874667}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 0.99999964, z: 0.9999996}
+    - name: Biped R Foot
+      parentName: Biped R Calf
+      position: {x: -27.759043, y: 0.0000020633452, z: 0.00000019930303}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000006}
+    - name: Biped R Toe0
+      parentName: Biped R Foot
+      position: {x: -16.296001, y: 16.56453, z: 0.0000020273292}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000006, y: 0.99999976, z: 1.0000008}
+    - name: Biped R Toe0_end
+      parentName: Biped R Toe0
+      position: {x: -0, y: 23.236671, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped Tail
+      parentName: Biped Pelvis
+      position: {x: 1.2303783, y: -14.818547, z: 0.000062777886}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0004113, y: 1.0000039, z: 1.0000037}
+    - name: Biped Tail_end
+      parentName: Biped Tail
+      position: {x: -0, y: 12.745069, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Navy_Captain
+      parentName: NavyCraftBlend(Clone)
+      position: {x: 1.5667188e-10, y: 0.78071064, z: 0.0000000054035034}
+      rotation: {x: -0.7071068, y: -0.00000008448409, z: -0.000000084463565, w: 0.7071067}
+      scale: {x: 0.009999998, y: 0.009999998, z: 0.01}
+    - name: Navy_Head
+      parentName: NavyCraftBlend(Clone)
+      position: {x: 0.0000000036516776, y: 0.78071064, z: 1.5283778e-16}
+      rotation: {x: -0.7071068, y: -0.0000001071783, z: -0.00000010355636, w: 0.7071067}
+      scale: {x: 0.009999998, y: 0.009999998, z: 0.01}
+    - name: Navy_Hat
+      parentName: NavyCraftBlend(Clone)
+      position: {x: -0.0000000073753776, y: 1.958921, z: 0.016750181}
+      rotation: {x: -0.7071068, y: -0.0000001071783, z: -0.00000010355636, w: 0.7071067}
+      scale: {x: 0.009999998, y: 0.009999998, z: 0.01}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

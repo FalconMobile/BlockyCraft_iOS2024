@@ -1,0 +1,1349 @@
+fileFormatVersion: 2
+guid: 7699178ed19d297479104ee3dbbbe922
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 4743720883344224541
+    second: Characters39
+  - first:
+      74: -3567413200517721699
+    second: Characters41
+  - first:
+      74: 4143531612008587668
+    second: TPose
+  - first:
+      74: -3100369314251171874
+    second: Idle
+  - first:
+      74: 2667949614841947897
+    second: Walk
+  - first:
+      74: 934665161720907391
+    second: Walk2
+  - first:
+      74: 2368892711096660273
+    second: Run
+  - first:
+      74: 5539831331247536789
+    second: Jump
+  - first:
+      74: 832478212396607602
+    second: Melee_Idle
+  - first:
+      74: 890551355154821311
+    second: Melee_Attack_Hack
+  - first:
+      74: -8995542616660122415
+    second: Melee_Attack_Stab
+  - first:
+      74: 761572813993422205
+    second: Pistol_Idle
+  - first:
+      74: 4659293586477332013
+    second: Pistol_Attack_Shoot
+  - first:
+      74: -117218777896202658
+    second: Musket_Idle
+  - first:
+      74: 7377316753185600629
+    second: Musket_Attack_Shoot
+  - first:
+      74: -1517598516272840021
+    second: Musket_Attack_Stab
+  - first:
+      74: 2290340524974406348
+    second: Bow_Idle
+  - first:
+      74: -5608667477841532170
+    second: Bow_Attack_Shoot
+  - first:
+      74: -6185155371445809522
+    second: Throw
+  - first:
+      74: -7833822941507725128
+    second: Swim_Idle
+  - first:
+      74: 8166542675417592435
+    second: Swim_Forward
+  - first:
+      74: -6907940436989917830
+    second: Swim_Backwards
+  - first:
+      74: -1304387373167265313
+    second: Hit
+  - first:
+      74: 4348485665485846014
+    second: Death
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Materials
+    second: {fileID: 2100000, guid: edf22e786e641ab41b52f1f34b5a2b5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Navy
+    second: {fileID: 2100000, guid: 0369aaece9c0250419e4d7b2fd6973bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Navy_Head
+    second: {fileID: 2100000, guid: b35df98bab661404ca5848b45863d73f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_Set
+    second: {fileID: 2800000, guid: 2cf04887f62914a4ea7be956d7f64d38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Navy_1
+    second: {fileID: 2800000, guid: 751f4c2fc5370db4c94dffbd5de3724d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Navy_Blue
+    second: {fileID: 2800000, guid: 3535972803059b54f98763ac8b5bff01, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TPose
+      takeName: Navy_Captain06
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Navy_Captain06
+      internalID: 0
+      firstFrame: 10
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Navy_Captain06
+      internalID: 0
+      firstFrame: 80
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk2
+      takeName: Navy_Captain06
+      internalID: 0
+      firstFrame: 120
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Navy_Captain06
+      internalID: 0
+      firstFrame: 150
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Navy_Captain06
+      internalID: 0
+      firstFrame: 170
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Melee_Idle
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 200
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Melee_Attack_Hack
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 230
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.53879297
+        functionName: AttackEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Melee_Attack_Stab
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 250
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.59482783
+        functionName: AttackEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pistol_Idle
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 280
+      lastFrame: 310
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pistol_Attack_Shoot
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 310
+      lastFrame: 319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.4439669
+        functionName: AttackEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Musket_Idle
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 322
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Musket_Attack_Shoot
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 350
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.06465632
+        functionName: AttackEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Musket_Attack_Stab
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 370
+      lastFrame: 390
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5689656
+        functionName: AttackEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bow_Idle
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 400
+      lastFrame: 430
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Biped
+        weight: 1
+      - path: Biped/Biped Pelvis
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped L Thigh
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped L Thigh/Biped L Calf
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped L Thigh/Biped L Calf/Biped L Foot
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped L Thigh/Biped L Calf/Biped L Foot/Biped L
+          Toe0
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped R Thigh
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped R Thigh/Biped R Calf
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped R Thigh/Biped R Calf/Biped R Foot
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped R Thigh/Biped R Calf/Biped R Foot/Biped R
+          Toe0
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle/Biped
+          L UpperArm
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle/Biped
+          L UpperArm/Biped L Forearm
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle/Biped
+          L UpperArm/Biped L Forearm/Biped L Hand
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle/Biped
+          L UpperArm/Biped L Forearm/Biped L Hand/Bow_Root
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle/Biped
+          L UpperArm/Biped L Forearm/Biped L Hand/Bow_Root/Bow_String
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Neck
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Neck/Biped Head
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm/Biped R Hand
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm/Biped R Hand/Musket_Blade
+        weight: 0
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm/Biped R Hand/Pistol
+        weight: 0
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm/Biped R Hand/Sword_Curved
+        weight: 0
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm/Biped R Hand/Sword_Straight
+        weight: 0
+      - path: Biped/Biped Pelvis/Biped Tail
+        weight: 1
+      - path: Bow
+        weight: 0
+      - path: Navy_Captain
+        weight: 0
+      - path: Navy_Hat
+        weight: 0
+      - path: Navy_Head
+        weight: 0
+      maskType: 0
+      maskSource: {fileID: 31900000, guid: 4d8cfdfce8bcb9e4e8d26a1cf9a0973e, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bow_Attack_Shoot
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 430
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: AttackEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.34818918
+        functionName: LoadArrow
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Biped
+        weight: 1
+      - path: Biped/Biped Pelvis
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped L Thigh
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped L Thigh/Biped L Calf
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped L Thigh/Biped L Calf/Biped L Foot
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped L Thigh/Biped L Calf/Biped L Foot/Biped L
+          Toe0
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped R Thigh
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped R Thigh/Biped R Calf
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped R Thigh/Biped R Calf/Biped R Foot
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped R Thigh/Biped R Calf/Biped R Foot/Biped R
+          Toe0
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle/Biped
+          L UpperArm
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle/Biped
+          L UpperArm/Biped L Forearm
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle/Biped
+          L UpperArm/Biped L Forearm/Biped L Hand
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle/Biped
+          L UpperArm/Biped L Forearm/Biped L Hand/Bow_Root
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped L Clavicle/Biped
+          L UpperArm/Biped L Forearm/Biped L Hand/Bow_Root/Bow_String
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Neck
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Neck/Biped Head
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm/Biped R Hand
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm/Biped R Hand/Musket_Blade
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm/Biped R Hand/Pistol
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm/Biped R Hand/Sword_Curved
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped R Clavicle/Biped
+          R UpperArm/Biped R Forearm/Biped R Hand/Sword_Straight
+        weight: 1
+      - path: Biped/Biped Pelvis/Biped Tail
+        weight: 1
+      - path: Bow
+        weight: 1
+      - path: Navy_Captain
+        weight: 1
+      - path: Navy_Hat
+        weight: 1
+      - path: Navy_Head
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 4d8cfdfce8bcb9e4e8d26a1cf9a0973e, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Throw
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 460
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swim_Idle
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 490
+      lastFrame: 520
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swim_Forward
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 530
+      lastFrame: 560
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swim_Backwards
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 570
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 610
+      lastFrame: 620
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Navy_Captain18
+      internalID: 0
+      firstFrame: 620
+      lastFrame: 650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Biped Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Navy_Captain(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.00000044854514, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Navy_Captain
+      parentName: Navy_Captain(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped
+      parentName: Navy_Captain(Clone)
+      position: {x: -0, y: 0.7983968, z: 0}
+      rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Biped Pelvis
+      parentName: Biped
+      position: {x: 0, y: 0, z: 0.025796294}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Biped R Thigh
+      parentName: Biped Pelvis
+      position: {x: -0.00000022888179, y: -0.0000001581389, z: -0.1391967}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Biped R Calf
+      parentName: Biped R Thigh
+      position: {x: -0.3596369, y: -2.980232e-10, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: Biped R Foot
+      parentName: Biped R Calf
+      position: {x: -0.2775904, y: 7.4505804e-11, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Biped R Toe0
+      parentName: Biped R Foot
+      position: {x: -0.16296, y: 0.1656452, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Biped L Thigh
+      parentName: Biped Pelvis
+      position: {x: 0.00000022888179, y: 0.000000227937, z: 0.1391967}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: Biped L Calf
+      parentName: Biped L Thigh
+      position: {x: -0.3596369, y: -2.980232e-10, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999976}
+    - name: Biped L Foot
+      parentName: Biped L Calf
+      position: {x: -0.2775904, y: 1.8626449e-10, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Biped L Toe0
+      parentName: Biped L Foot
+      position: {x: -0.16296, y: 0.1656452, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: Biped Spine
+      parentName: Biped Pelvis
+      position: {x: -0.082716666, y: -0.00019701228, z: 0.000000114984594}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Biped Spine1
+      parentName: Biped Spine
+      position: {x: -0.24746598, y: -0.00023136729, z: -6.417201e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped Neck
+      parentName: Biped Spine1
+      position: {x: -0.2905621, y: -0.000057085676, z: -1.5833279e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped Head
+      parentName: Biped Neck
+      position: {x: -0.07169098, y: 7.4505804e-11, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped L Clavicle
+      parentName: Biped Spine1
+      position: {x: -0.2298093, y: 0.000048264792, z: 0.03911417}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped L UpperArm
+      parentName: Biped L Clavicle
+      position: {x: -0.2572505, y: -4.547474e-15, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Biped L Forearm
+      parentName: Biped L UpperArm
+      position: {x: -0.35939306, y: -5.820766e-13, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000006}
+    - name: Biped L Hand
+      parentName: Biped L Forearm
+      position: {x: -0.3765348, y: -0.000000002384186, z: -0.0000001525879}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1, y: 1.0000004, z: 1.0000005}
+    - name: Biped R Clavicle
+      parentName: Biped Spine1
+      position: {x: -0.2298093, y: 0.00004848175, z: -0.03911417}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped R UpperArm
+      parentName: Biped R Clavicle
+      position: {x: -0.2572505, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Biped R Forearm
+      parentName: Biped R UpperArm
+      position: {x: -0.35939306, y: -2.910383e-13, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000007}
+    - name: Biped R Hand
+      parentName: Biped R Forearm
+      position: {x: -0.3765348, y: 0, z: 0.0000001525879}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.9999999}
+    - name: Navy_Head
+      parentName: Navy_Captain(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: -0.000000022884423, z: -0.000000019262428, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Navy_Hat
+      parentName: Navy_Captain(Clone)
+      position: {x: -0.0000000033818803, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: -0.000000022884423, z: -0.000000019262428, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 83ce36623cf1b13408003c12b1042ca6,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
